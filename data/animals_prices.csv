@@ -1,0 +1,21 @@
+Commodity,Classification,Grade,Sex,Market,Wholesale,Retail,Supply Volume,County,Date
+Goat,Mixed,Grade 1 ,Female,Mabera,6500.00/Head, - ,20.0,Migori,2023-05-18
+Sheep,Hampshire down,Grade 3,Female,Keroka,4500.00/Head, - ,98.0,Nyamira,2023-06-08
+Sheep,Red Maasai ,Grade 1,Male,Kapkwen,5000.00/Head, - ,500.0,Bomet,2023-07-18
+Goat,Galla,Grade 2 ,Female,Habaswein Livestock Market,6000.00/Head, - ,36.0,Wajir,2023-07-01
+Sheep,Red Maasai ,Grade 1,Female,Holo,6000.00/Head, - ,110.0,Kisumu,2023-05-31
+Sheep, Blackhead Persian,Grade 3,Male,Garissa Livestock Market ,7800.00/Head, - ,147.0,Garissa,2023-07-19
+Sheep,Red Maasai ,Grade 2 ,Male,Bamba Livestock,5000.00/Head, - ,300.0,Kilifi,2023-08-23
+Sheep, Blackhead Persian,Grade 1,Male,Kerio Market,6000.00/Head, - ,6.0,Turkana,2023-05-29
+Sheep,Hampshire down,Grade 1,Male,Rongo,8500.00/Head, - ,420.0,Migori,2023-05-15
+Sheep, Blackhead Persian,Grade 1,Female,Chepareria,4500.00/Head, - ,140.0,West-Pokot,2023-07-27
+Sheep, Blackhead Persian,Grade 1,Female,Takaba Livestock Market,3000.00/Head, - ,5.0,Mandera,2023-06-06
+Sheep,Red Maasai ,Grade 1,Female,Aram,4500.00/Head, - ,10.0,Siaya,2023-06-08
+Goat,Mixed,Grade 3  ,Male,Kakuma Livestock Market,5000.00/Head, - ,70.0,Turkana,2023-08-15
+Goat,East African Goat,Grade 1 ,Male,Aram,5500.00/Head, - ,18.0,Siaya,2023-06-12
+Sheep,Red Maasai ,Grade 1,Male,Serem - Vihiga,6000.00/Head, - ,20.0,Vihiga,2023-08-12
+Sheep,Somali,Grade 2 ,Female,Tseikuru,3800.00/Head, - ,520.0,Kitui,2023-09-28
+Goat,Dairy Goats,Grade 1 ,Female,Gakindu,7500.00/Head, - ,55.0,Nyeri,2023-06-16
+Sheep,Red Maasai ,Grade 1,Female,Aram,3000.00/Head, - ,20.0,Siaya,2023-05-15
+Sheep,Red Maasai ,Grade 2 ,Female,Chumvini Livestock Market,4800.00/Head, - ,17.0,Taita-Taveta,2023-10-13
+Sheep,Somali,Grade 2 ,Female,Modogashe  Market,4100.00/Head, - ,35.0,Garissa,2023-05-08
