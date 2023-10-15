@@ -1,6 +1,6 @@
 # Wakala
 
-![alt text](http://url/to/img.png)
+![alt text]([http://url/to/img.png](https://github.com/tedai-hackathon/wakala/blob/main/media/banner.jpg))
 
 ## Installation and running locally
 
