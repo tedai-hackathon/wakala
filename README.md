@@ -1,6 +1,9 @@
+![alt text](https://github.com/tedai-hackathon/wakala/blob/main/media/banner.jpg)
+
 # Wakala
 
-![alt text](https://github.com/tedai-hackathon/wakala/blob/main/media/banner.jpg)
+![alt text](https://github.com/tedai-hackathon/wakala/blob/main/media/TEDAI.jpg)
+
 
 ## Installation and running locally
 
